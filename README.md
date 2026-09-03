@@ -13,8 +13,8 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | Escribe el párrafo que creaste durante el ejercicio de clase |
+| Home | Tania Alexandra Gonzalez Lozano, estudiente|
+| About | I'm studying web development because I want to learn about technology and build websites. I use my computer to study, and although the degree is challenging, I'm fully committed to it |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
