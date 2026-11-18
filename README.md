@@ -15,9 +15,9 @@ A public web page with six sections:
 |---|---|
 | Home | Tania Alexandra Gonzalez Lozano, estudiente|
 | About | I'm studying web development because I want to learn about technology and build websites. I use my computer to study, and although the degree is challenging, I'm fully committed to it |
-| Skills | Your technical and professional skills |
-| Resume | Your education and your experience |
-| Projects | The projects you have built |
+| Skills | I have basic knowledge of HTML, CSS, JavaScript, SQL, and web development. I'm learning how to create websites, manage databases, and solve programming problems. I also have skills in teamwork, creativity, responsibility, and problem-solving. |
+| Resume | I'm currently a university student studying Web Development. During my studies, I've worked on academic projects involving websites, databases, and programming. I'm developing my technical skills and gaining experience through practical assignments. |
+| Projects | I've worked on academic projects such as a hotel reservation system, a vehicle maintenance management system, and database applications. These projects have helped me improve my programming, database management, and web development skills. |
 | Contact | How people can reach you |
 
 ---
